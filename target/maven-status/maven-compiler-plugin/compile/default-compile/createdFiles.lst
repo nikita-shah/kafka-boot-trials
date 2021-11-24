@@ -1,0 +1,6 @@
+com/trials/kafkaboottrials/simple/SimpleConsumer.class
+com/trials/kafkaboottrials/simple/SimpleConsumerConfig.class
+com/trials/kafkaboottrials/KafkaBootTrialsApplication.class
+com/trials/kafkaboottrials/ServletInitializer.class
+com/trials/kafkaboottrials/stream/KafkaStream.class
+com/trials/kafkaboottrials/stream/KafkaStreamsConfig.class
