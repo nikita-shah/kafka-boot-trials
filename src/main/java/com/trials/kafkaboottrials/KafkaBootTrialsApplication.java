@@ -8,6 +8,7 @@ public class KafkaBootTrialsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KafkaBootTrialsApplication.class, args);
+
 	}
 
 }
